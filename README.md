@@ -1,6 +1,6 @@
-# Simple Dapp - Message
+# Simple Ethereum Dapp - Message
 
-A simple blockchain dapp to fetch and set a message.
+A simple ethereum-based blockchain dapp to fetch and set a message.
 
 ## Techstack
 
